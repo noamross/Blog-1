@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "What is Jekyll!"
-date:   2014-07-28 22:48:45
-description: Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
-categories:
+title:  "Did Jekyll Serve This?"
+date:   2015-08-18
+description: Trying to find out whether the jekyll serve --watch command worked.
 - blog
 ---
 
